@@ -1,3 +1,7 @@
+The problem at hand is also known as the Collatz conjecture, and states that given any positive integer 
+N will converge to 1 if we apply the algorithm mentioned in the statement.So far, no one really knows whether the conjecture holds for any given N, 
+so it remains an unsolved problem in mathematics.
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
