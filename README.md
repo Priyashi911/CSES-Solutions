@@ -1,21 +1,22 @@
 # CSES-Solutions
 Welcome to my repository containing solutions to the CSES Problem Set implemented in C++. This repository contains my solutions to these problems, implemented in C++, providing clear and concise solutions along with explanations.
  [CSES Problem Set](https://cses.fi/problemset/
+**Start date-17-01-2024**
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     19/19     |
-| Sorting and Searching |     35/35     |
-| Dynamic Programming   |     19/19     |
-| Graph Algorithms      |     36/36     |
-| Range Queries         |     19/19     |
-| Tree Algorithms       |     16/16     |
-| Mathematics           |     31/31     |
-| String Algorithms     |     17/17     |
-| Geometry              |      7/7      |
-| Advanced Techniques   |     24/24     |
-| Additional Problems   |     65/77     |
-| **Total**             |  **288/300**  |
+| Introductory Problems |     2/19     |
+| Sorting and Searching |     0/35     |
+| Dynamic Programming   |     0/19     |
+| Graph Algorithms      |     0/36     |
+| Range Queries         |     0/19     |
+| Tree Algorithms       |     0/16     |
+| Mathematics           |     0/31     |
+| String Algorithms     |     0/17     |
+| Geometry              |      0/7      |
+| Advanced Techniques   |     0/24     |
+| Additional Problems   |     0/77     |
+| **Total**             |  **2/300**  |
 
 # Table of Contents
 
